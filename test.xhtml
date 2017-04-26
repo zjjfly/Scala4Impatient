@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:s="http://jboss.com/products/seam/taglib"
+      xmlns:ss="http://www.sunsheen.cn/jfids/ui" xml:lang="en" lang="en">
+<ss:remoting interface="CommonDao,MapEntity"/>
+<ss:viewPort layout="border" margins="3 3 3 3">
+    <ss:topBar>
+        <ss:buttonGroup group="base" form="" />
+        <ss:button id="button1mYm" text="调用服务装配" iconCls="app_application_png" tooltip="" handler="java2Sqlmap.reloadData()" />
+    </ss:topBar>
+    <ss:formPanel layout="formtable" id="formpZl5" border="true"
+                  columns="3" labelAlign="right" autoScroll="false"
+                  labelWidth="80" split="true" title="" region="center"  margins="0 0 0 0">
+        <ss:selectField fieldLabel="调用服务装配" id="selectservice" name="selectservice" width="150"  value=""
+                        colspan="1" allowBlank="true" dataUrl="">
+        </ss:selectField>
+    </ss:formPanel>
+
+    <ss:formPanel layout="formtable" id="formpZl5" border="true"
+                  columns="3" labelAlign="right" autoScroll="false"
+                  labelWidth="80" split="true" title="" region="center"  margins="0 0 0 0">
+        <ss:selectField fieldLabel="调用服务装配" id="selectservice" name="selectservice" width="150"  value=""
+                        colspan="1" allowBlank="true" dataUrl="">
+        </ss:selectField>
+    </ss:formPanel>
+</ss:viewPort>
+<script language="javascript" src="com/hearker/demo/business/database/java2sqlMap/java2Sqlmap.js"></script>
+<body><p>&nbsp;aa</p></body>
+</html>

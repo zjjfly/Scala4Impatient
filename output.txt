@@ -1,0 +1,28 @@
+total 24
+drwxr-xr-x  13 zjjfly  staff    442 May 12 11:44 .
+drwxr-xr-x+ 44 zjjfly  staff   1496 Jun  2 08:36 ..
+-rw-r--r--@  1 zjjfly  staff  10244 May 13 23:01 .DS_Store
+drwxr-xr-x   7 zjjfly  staff    238 Jan 12 13:35 FlaskLearn
+drwxr-xr-x  10 zjjfly  staff    340 Jun  1 23:17 ImpatientScala
+drwxr-xr-x  14 zjjfly  staff    476 Jan 29 16:02 Java8Exp
+drwxr-xr-x  10 zjjfly  staff    340 Mar  9 17:44 JavaDev
+drwxr-xr-x   7 zjjfly  staff    238 May 12 12:12 LearingScala
+drwxr-xr-x   9 zjjfly  staff    306 Feb 25 17:23 LearnC
+drwxr-xr-x   8 zjjfly  staff    272 Feb  3 10:51 LearnJs
+drwxr-xr-x   8 zjjfly  staff    272 May 12 09:01 SBTProject
+drwxr-xr-x  10 zjjfly  staff    340 Apr  1 17:18 Web
+drwxr-xr-x  21 zjjfly  staff    714 Dec 12 02:59 learnclojure
+total 24
+drwxr-xr-x  13 zjjfly  staff    442 May 12 11:44 .
+drwxr-xr-x+ 44 zjjfly  staff   1496 Jun  2 08:36 ..
+-rw-r--r--@  1 zjjfly  staff  10244 May 13 23:01 .DS_Store
+drwxr-xr-x   7 zjjfly  staff    238 Jan 12 13:35 FlaskLearn
+drwxr-xr-x  10 zjjfly  staff    340 Jun  1 23:17 ImpatientScala
+drwxr-xr-x  14 zjjfly  staff    476 Jan 29 16:02 Java8Exp
+drwxr-xr-x  10 zjjfly  staff    340 Mar  9 17:44 JavaDev
+drwxr-xr-x   7 zjjfly  staff    238 May 12 12:12 LearingScala
+drwxr-xr-x   9 zjjfly  staff    306 Feb 25 17:23 LearnC
+drwxr-xr-x   8 zjjfly  staff    272 Feb  3 10:51 LearnJs
+drwxr-xr-x   8 zjjfly  staff    272 May 12 09:01 SBTProject
+drwxr-xr-x  10 zjjfly  staff    340 Apr  1 17:18 Web
+drwxr-xr-x  21 zjjfly  staff    714 Dec 12 02:59 learnclojure
